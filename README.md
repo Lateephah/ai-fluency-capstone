@@ -1,11 +1,15 @@
-# Latifah Usaini Bashir — FlyRank AI Fluency Capstone
+# Latifah Usaini Bashir - FlyRank AI Fluency Capstone
 
 **Claim:** I can take unstructured contracts and produce a structured, risk-flagged output that a non-lawyer can act on immediately. I want a legal-tech founder building SME-facing tools to see LexGuard as evidence I can own that pipeline for them.
 
 **Live portfolio:** https://latifah-portfolio.netlify.app/
+
 **LexGuard (live product):** https://lexguard20.netlify.app/
+
 **LexGuard repo:** https://github.com/Lateephah/LexGuard
+
 **Retrospective:** [`retrospective.md`](./retrospective.md)
+
 **Build-in-public post:** [`build-in-public-post.md`](./build-in-public-post.md)
 
 ---
