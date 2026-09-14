@@ -18,7 +18,7 @@
 
 - [`portfolio/week1-corrected-proof-statement.docx`](./portfolio/proof_statement.txt), the one-paragraph proof statement, corrected mid-track once a broad early draft was caught and re-narrowed
 - [`portfolio/framed-cases-corrected.docx`](./portfolio/framed-case.docx) , the LexGuard case study, voice card, and before/after edit, scoped to match the actual sitemap
-- [`portfolio/content-map.docx`](./portfolio/content-map.docx) ,one-line claim, page/section map, and the "still need to gather" list
+- [`portfolio/content-map.docx`](./portfolio/lexguard-content-map.docx) ,one-line claim, page/section map, and the "still need to gather" list
 
 ## 2. Visual identity (Week 3)
 
