@@ -24,7 +24,7 @@
 
 - [`portfolio/identity-kit.png`](./portfolio/Identity_kit.png), fonts, hex codes, mood line
 - [`portfolio/lexguard-monogram.svg`](./portfolio/lexguard-monogram.svg), logo mark
-- [`portfolio/image-curation.docx`](./portfolio/image-curation.docx), real vs. generated image decisions, with rejection notes
+- [`portfolio/image-curation.docx`](./portfolio/lexguard-image-curation.docx), real vs. generated image decisions, with rejection notes
 
 ## 3. The live portfolio site (Weeks 4–9)
 
