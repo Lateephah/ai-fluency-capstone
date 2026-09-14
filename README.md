@@ -30,7 +30,7 @@
 
 - **Live URL:** https://latifah-portfolio.netlify.app/
 - [`portfolio/survive-the-crit.docx`](./portfolio/survive-the-crit.docx), real peer feedback, must-fix/nice-to-have sort, fixes shipped
-- [`portfolio/break-your-own-site.docx`](./portfolio/break-your-own-site.docx),  self-hardening pass: edge cases tried, fixes made, limitations named
+- [`portfolio/break-your-own-site.docx`](./portfolio/HardeningReview.docx),  self-hardening pass: edge cases tried, fixes made, limitations named
 - Launch hygiene: favicon, social-share preview, SEO metadata, Google Analytics, all live on the site above
 
 ## 4. The capstone build: Application Prep Agent (Weeks 6–9)
