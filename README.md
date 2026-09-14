@@ -35,7 +35,7 @@
 
 ## 4. The capstone build: Application Prep Agent (Weeks 6–9)
 
-- [`agent/spec.docx`](./agent/spec.docx) - the original design spec: scope, tools, eval cases, guardrails
+- [`agent/spec.docx`](./agent/personal-agent-spec.docx) - the original design spec: scope, tools, eval cases, guardrails
 - [`agent/build-log.docx`](./agent/build-log.docx) - real iteration: what broke, what changed, what was cut
 - [`agent/README.md`](./agent/README.md) - setup, usage, architecture, v2 eval results, limitations
 - [`agent/architecture.png`](./agent/architecture.png) - the five-step pipeline diagram
