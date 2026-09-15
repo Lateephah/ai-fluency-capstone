@@ -62,8 +62,8 @@ Across all 6, the agent's judgment matched a careful manual review — no incorr
 - **LinkedIn blocks automated fetching**, even by direct URL. Posting text has to be pasted in manually for gated sites.
 - **NotebookLM is not available as a callable tool** in this build environment. The original design called for it to handle grounded extraction; that step runs as direct extraction against fetched text instead. Functionally similar, but it's a real deviation from the original spec, not an invisible one.
 - **GitHub's repository list page blocks automated access** (`robots.txt` disallows it). The agent can read a profile's pinned/popular repos but not browse someone's full repository list.
-- **No update capability on the Drive connector** — the application tracker (a Google Sheet) can be recreated with fresh data but not appended to in place.
-- **The agent will not auto-submit applications.** This is a deliberate design boundary, not a gap to close later — every run ends in a human decision.
+- **No update capability on the Drive connector**, the application tracker (a Google Sheet) can be recreated with fresh data but not appended to in place.
+- **The agent will not auto-submit applications.** This is a deliberate design boundary, not a gap to close later, every run ends in a human decision.
 
 ## Built with AI, The what and how
 
