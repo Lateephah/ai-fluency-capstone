@@ -39,7 +39,7 @@
 - [`agent/build-log.docx`](./agent/build-log.pdf) - real iteration: what broke, what changed, what was cut
 - [`agent/README.md`](./agent/README.md) - setup, usage, architecture, v2 eval results, limitations
 - [`agent/architecture.png`](./agent/architecture.png) - the five-step pipeline diagram
-- **Demo video:** [ link once recorded ]
+- **Demo video:** (https://youtu.be/4Wuma-KqtUI?si=cVmi8rc_65H4KeVs)
 - **Live supporting artifact:** [Job Application Tracker (Google Sheet)](https://docs.google.com/spreadsheets/d/1L7EXXXMxJPuxgQBBlwGZ4Ivl-sOXG0loxOSqKGT6X5I/edit), real postings screened, with honest apply/skip decisions
 
 
