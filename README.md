@@ -45,7 +45,7 @@
 
 ## 5. FlyRank credential
 
-- Verification: https://internship.flyrank.ai/verify?id=FR-D1-T668H-R789R&first_name=Latifah
+- Verification: [https://internship.flyrank.ai/verify?id=FR-D1-T668H-R789R&first_name=Latifah](https://internship.flyrank.ai/verify/FR-D11-060EE-53945?first_name=Latifah)
 - Badge: visible in the portfolio site's footer
 
 ---
